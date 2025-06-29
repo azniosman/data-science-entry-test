@@ -1,0 +1,6 @@
+Test 1: check_divisibility(10, 2)
+Result: True
+
+Test 2: check_divisibility(7, 3)
+Result: False
+

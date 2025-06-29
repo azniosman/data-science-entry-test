@@ -1,0 +1,7 @@
+Test 1: update_dictionary({}, 'name', 'Alice')
+Result: {'name': 'Alice'}
+
+Test 2: update_dictionary({'age': 25}, 'age', 26)
+Original value for key 'age': 25
+Result: {'age': 26}
+

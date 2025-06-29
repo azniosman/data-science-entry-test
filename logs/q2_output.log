@@ -1,0 +1,6 @@
+Test 1: find_and_replace([1, 2, 3, 4, 2, 2], 2, 5)
+Result: [1, 5, 3, 4, 5, 5]
+
+Test 2: find_and_replace(['apple', 'banana', 'apple'], 'apple', 'orange')
+Result: ['orange', 'banana', 'orange']
+

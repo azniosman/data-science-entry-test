@@ -1,0 +1,6 @@
+Test 1: find_first_negative([3, 5, -1, 7, -2, 8])
+Result: -1
+
+Test 2: find_first_negative([2, 10, 7, 0])
+Result: No negatives
+

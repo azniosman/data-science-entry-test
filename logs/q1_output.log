@@ -1,0 +1,7 @@
+Test 1: swap('Apple', 10)
+Result: -1
+
+Test 2: swap(9, 17)
+x = 17, y = 9
+Result: (17, 9)
+
